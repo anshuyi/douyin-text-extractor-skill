@@ -1,0 +1,16 @@
+runtime/
+**/runtime/
+*.zip
+*.mp4
+*.mp3
+*.wav
+*.part
+*.log
+__pycache__/
+*.pyc
+.work/
+.env
+.env.*
+.request-*.json
+catalog.json
+processing-report.json
